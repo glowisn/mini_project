@@ -1,3 +1,7 @@
+# Custom_ignores
+shop
+shop_debug
+
 # Prerequisites
 *.d
 
